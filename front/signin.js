@@ -9,8 +9,6 @@
 
 */
 
-let url = "https://www.seongong.shop";
-
 const btnSignIn = document.querySelector("#signin");
 
 // 1. #signin 클릭
